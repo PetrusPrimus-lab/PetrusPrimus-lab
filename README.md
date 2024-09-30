@@ -7,7 +7,7 @@
     <a href="https://t.me/PetrusPrimus">
       <img src="https://img.shields.io/badge/Tg-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="TG Badge"/>
     </a>
-    <a href="petrzemlianskii@gmail.com">
+    <a href="mailto:petrzemlianskii@gmail.com">
       <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Gmail&amp;color=EA4335&amp;logo=Gmail&amp;logoColor=FFFFFF&amp;label=" alt="Gmail Badge"/>
     </a>
   </div>
