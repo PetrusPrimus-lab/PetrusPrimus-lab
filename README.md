@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JraGw4NGRycWM3aThwdjh4ZjYybml4emYzdWZweGJibmJvYXh1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150"/>
   <div id="badges">
-    <a href="https://hh.ru/resume/7de7ccc1ff0c9ff4210039ed1f464a66663647">
+    <a href="https://drive.google.com/file/d/1pYMnRVtRIeSd_P_ivx1t7Mzy6cNxjS0x/view?usp=sharing">
       <img src="https://img.shields.io/badge/CV-red?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV Badge"/>
     </a>
     <a href="https://t.me/PetrusPrimus">
